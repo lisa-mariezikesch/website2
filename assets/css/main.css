@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #bda69f;
+		color: #891d00;
 		text-decoration: underline;
 	}
 
@@ -2198,7 +2198,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #891d00;
+				color: #bda69f;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
