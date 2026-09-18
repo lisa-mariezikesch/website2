@@ -1958,6 +1958,22 @@ input, select, textarea {
 					ul.social li a.fa-linkedin:hover {
 						background: #1075a9;
 					}
+				
+				ul.social li a.fa-github {
+					background: #006599;
+				}
+
+					ul.social li a.fa-github:hover {
+						background: #1075a9;
+					}	
+
+				ul.social li a.fa-email {
+					background: #006599;
+				}
+
+					ul.social li a.fa-email:hover {
+						background: #1075a9;
+					}
 
 				ul.social li a.fa-tumblr {
 					background: #2b4661;
