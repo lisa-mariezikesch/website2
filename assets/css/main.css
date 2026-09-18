@@ -2906,3 +2906,25 @@ input, select, textarea {
 			}
 
 	}
+
+/* about section */
+.about-section {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.section-text {
+  flex: 1;
+}
+
+.section-image {
+  width: 40%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+}
