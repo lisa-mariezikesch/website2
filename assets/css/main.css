@@ -2921,10 +2921,23 @@ input, select, textarea {
   flex: 1;
 }
 
-.section-image {
+.image-figure {
   width: 40%;
   max-width: 400px;
+  margin: 0;
+}
+
+.section-image {
+  display: block;
+  width: 100%;
   height: auto;
   border-radius: 12px;
-  object-fit: cover;
+}
+
+.image-figure figcaption {
+  margin-top: 7px;
+  color: #666;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  text-align: right;
 }
